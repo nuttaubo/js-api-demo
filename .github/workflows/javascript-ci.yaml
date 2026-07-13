@@ -1,4 +1,4 @@
-name: JavaScript CI
+name: JavaScript CICD
 on: [push , pull_request]
 
 jobs:
